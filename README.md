@@ -96,10 +96,10 @@ Its catalog shows:
 ## 🚀 How to Run This Project
 
 ### 1. Clone repository
-git clone https://github.com/your-username/netflix-eda.git
+git clone https://github.com/sakshi-06-s/NETFLIX-EDA.git
 
 ### 2. Move into directory
-cd netflix-eda
+cd NETFLIX-EDA
 
 ### 3. Install dependencies
 pip install pandas numpy matplotlib seaborn
@@ -108,5 +108,5 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook
 
 ### 5. Open file
-Netflix_EDA.ipynb → Run all cells
+netflix.ipynb → Run all cells
 
