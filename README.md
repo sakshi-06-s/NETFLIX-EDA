@@ -66,10 +66,12 @@ The dataset required cleaning before analysis:
 ## 📈 Visual Analysis Includes
 
 - Content type distribution (Movies vs TV Shows)  
-- Year-wise content growth trend  
+- Year-wise content growth trend
+  ![Year-wise content growth](images/year-wise.png)
 - Top countries by content contribution  
 - Genre frequency distribution  
-- Ratings distribution analysis  
+- Ratings distribution analysis
+  ![Ratings Distribution](images/ratings.png)
 - Movie duration distribution  
 - TV show season distribution  
 - Missing value heatmap  
